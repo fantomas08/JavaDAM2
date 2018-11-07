@@ -1,0 +1,23 @@
+package procesos;
+
+import java.io.IOException;
+
+public class Launcher {
+
+	public void launchSum(Integer n1, Integer n2) {
+		String clase = "Sum";
+		try {
+			ProcessBuilder pb = new ProcessBuilder("java", clase, n1.toString(), n2.toString());
+			pb.start();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

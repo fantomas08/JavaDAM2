@@ -1,0 +1,111 @@
+[1031/161241.909:ERROR:session_end_watcher.cc(157)] CreateWindow: Espacio de almacenamiento insuficiente para procesar este comando. (0x8)
+[1031/161242.153:ERROR:session_end_watcher.cc(157)] CreateWindow: Espacio de almacenamiento insuficiente para procesar este comando. (0x8)
+[1031/161242.624:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1031/161242.754:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1031/161242.893:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161243.844:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1031/161251.420:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1031/161316.215:ERROR:crashpad_client_win.cc(130)] crash server failed to launch, self-terminating
+[1031/161319.201:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.226:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.223:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.223:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.206:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.206:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.207:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.208:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.209:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.209:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.210:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.210:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.211:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.212:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.212:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.213:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.214:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.229:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.233:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.236:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.292:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.293:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161319.296:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161335.734:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161336.321:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161336.428:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161337.054:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161337.687:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1031/161337.687:ERROR:exception_snapshot_win.cc(88)] thread ID 28712 not found in process
+[1031/161337.734:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161337.776:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161339.978:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1031/161339.979:ERROR:exception_snapshot_win.cc(88)] thread ID 13376 not found in process
+[1031/161340.340:ERROR:crashpad_client_win.cc(130)] crash server failed to launch, self-terminating
+[1031/161340.484:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/161351.111:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1031/161411.844:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1031/161411.845:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1031/161503.181:ERROR:file_io.cc(134)] WriteFile: Se está cerrando la canalización. (0xE8)
+[1031/162424.657:FATAL:exception_handler_server.cc(331)] : El archivo de paginación es demasiado pequeño para completar la operación. (0x5AF)
+[1031/162424.898:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1031/162424.901:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1031/162424.902:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1031/162428.530:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1031/162428.531:ERROR:exception_snapshot_win.cc(88)] thread ID 40992 not found in process
+[1031/162428.555:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162428.578:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162428.593:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162428.598:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162428.657:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162428.725:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162428.729:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162428.869:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162429.050:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162429.120:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162429.228:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162429.283:ERROR:crashpad_client_win.cc(130)] crash server failed to launch, self-terminating
+[1031/162429.360:ERROR:crashpad_client_win.cc(130)] crash server failed to launch, self-terminating
+[1031/162429.597:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162429.651:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162429.999:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162438.109:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162438.358:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.433:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.438:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.449:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.464:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.465:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.487:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.496:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.498:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.508:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.519:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.526:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.532:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.533:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.535:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.539:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.577:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.584:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.592:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162443.612:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162444.027:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162444.036:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162444.047:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162444.088:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162444.177:ERROR:process_info.cc(359)] UncheckedAllocate
+[1031/162445.350:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1031/162501.195:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1031/162501.474:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[1031/162501.474:ERROR:process_info.cc(545)] ReadProcessData failed
+[1031/162501.474:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd40c754d0 of 12 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[1031/162501.474:WARNING:process_snapshot_win.cc(69)] ReadMemory ExceptionInformation failed
+[1031/162501.324:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1031/162501.246:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1031/162501.531:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[1031/162501.531:ERROR:process_info.cc(545)] ReadProcessData failed
+[1031/162501.531:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd40c754d0 of 12 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[1031/162501.531:WARNING:process_snapshot_win.cc(69)] ReadMemory ExceptionInformation failed
+[1031/162501.553:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1031/162501.553:ERROR:exception_snapshot_win.cc(88)] thread ID 58472 not found in process
+[1031/162502.464:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1031/162521.619:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
