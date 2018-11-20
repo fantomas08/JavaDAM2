@@ -1,0 +1,5 @@
+package db4o;
+
+public class Empleados {
+
+}

@@ -1,0 +1,42 @@
+package db_connection;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class SQLite {
+
+	public static void main(String[] args) {
+		ResultSet rs = null;
+		Statement query = null;
+		Connection con = null;
+		
+		try {
+			Class.forName("org.sqlite.JDBC");
+			Connection con = DriverManager.getConnection("jdbc:sqlite:C:/miruta/mibd", "", "");
+			
+			Statement query = con.createStatement();
+			ResultSet rs = query.executeQuery("SELECT * FROM departamentos");
+			
+			while (rs.next()) {
+				System.out.println(rs.getInt("dept_no"));
+				System.out.println(rs.getString("dnombre"));
+				System.out.println(rs.getString("loc"));
+			}
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} finally {
+			rs.close();
+			query.close();
+			con.close();
+		}
+
+	}
+
+}

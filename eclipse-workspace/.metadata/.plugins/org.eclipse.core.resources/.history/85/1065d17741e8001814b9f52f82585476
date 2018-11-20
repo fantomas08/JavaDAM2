@@ -1,0 +1,14 @@
+package db4o;
+
+import com.db4o.Db4oEmbedded;
+
+public class Main {
+
+	final static String DB = "E:\\DAM2\\JavaDAM2\\bd_db4o\\EMPLEDEP.yap";
+	
+	public static void main(String[] args) {
+		
+		ObjectContainer db = Db4oEmbedded.openFile(Db4oEmbedded.newConfiguration().DB);
+	}
+
+}

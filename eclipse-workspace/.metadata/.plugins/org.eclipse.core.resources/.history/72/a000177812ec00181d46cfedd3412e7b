@@ -1,0 +1,14 @@
+package procesos;
+
+public class Vocal {
+	
+	public int vocalCount(File file, char vocal) {
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
