@@ -15,7 +15,7 @@ public class H2 {
 		
 		try {
 			Class.forName("org.h2.Driver");
-			con = DriverManager.getConnection("jdbc:h2:G:\\Acceso a datos\\tema2\\H2\\prueba\\prueba", "", "");
+			con = DriverManager.getConnection("jdbc:h2:E:\\DAM2\\Acceso a datos\\tema2\\H2\\ejemplo\\ejemplo", "", "");
 			
 			query = con.createStatement();
 			rs = query.executeQuery("SELECT * FROM departamentos");

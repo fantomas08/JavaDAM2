@@ -19,21 +19,10 @@ public class Vocal {
 
 	public static void main(String[] args) throws IOException {
 		Vocal v = new Vocal();
-		String text = "";
-		int j = 0;
-		File file = new File("texto.txt");
-		FileReader fr = new FileReader(file);
-		while ((j = fr.read()) != -1) {
-			text += (char) j;			
-		}
-		
-		char c;
-		int result;
-		for (int i = 0; i < args.length; ++i) {
-			c = args[i].charAt(0);
-			result = v.vocalCount(text, c);
-			System.out.println(result);
-		}
+		String text = args[0];
+		char vocal = args[1].charAt(0);
+		int result = v.vocalCount(text, vocal);
+		System.out.println(result);
 	}
 
 }

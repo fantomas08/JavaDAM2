@@ -80,7 +80,7 @@ public class Exercise1 {
 	}
 	
 	public static void main(String[] args) {
-		read("ciudades2.xml");
+		//write("ciudades.xml");
 	}
 
 }
