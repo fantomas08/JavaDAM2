@@ -461,12 +461,18 @@ public class Menu {
 				System.out.println("Input housing name");
 				input = scan.nextLine();
 				
-				r = new Room(0, "i", false, 0, input);
+				r = new Room(0, null, false, 0, input);
 				rr = db.queryByExample(r);
 				int icount = 0;
+				ArrayList<Room> ilist = new ArrayList<Room>();
 				
 				while (rr.hasNext()) {
-					++icount;
+					ilist.add(rr.next());
+				}
+				for (Room item : ilist) {
+					if (item.getType().equals("i")) {
+						++icount;
+					}
 				}
 				System.out.println(icount + " individual rooms");
 				System.out.println();
@@ -480,9 +486,15 @@ public class Menu {
 				r = new Room(0, "d", false, 0, input);
 				rr = db.queryByExample(r);
 				int dcount = 0;
+				ArrayList<Room> dlist = new ArrayList<Room>();
 				
 				while (rr.hasNext()) {
-					++dcount;
+					dlist.add(rr.next());
+				}
+				for (Room item : dlist) {
+					if (item.getType().equals("d")) {
+						++dcount;
+					}
 				}
 				System.out.println(dcount + " double rooms");
 				System.out.println();
@@ -496,9 +508,15 @@ public class Menu {
 				r = new Room(0, "t", false, 0, input);
 				rr = db.queryByExample(r);
 				int tcount = 0;
+				ArrayList<Room> tlist = new ArrayList<Room>();
 				
 				while (rr.hasNext()) {
-					++tcount;
+					tlist.add(rr.next());
+				}
+				for (Room item : tlist) {
+					if (item.getType().equals("t")) {
+						++tcount;
+					}
 				}
 				System.out.println(tcount + " triple rooms");
 				System.out.println();
