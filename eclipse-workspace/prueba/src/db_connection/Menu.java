@@ -86,7 +86,7 @@ public class Menu {
 			input = scan.nextLine();
 			switch (input) {
 			case "1":
-				
+				DBMetaData.getBDMetaData(con);
 				System.out.println("Input price");
 				input = scan.nextLine();
 				try {
